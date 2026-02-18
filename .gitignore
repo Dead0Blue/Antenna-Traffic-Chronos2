@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Data & Models (if too large, though these are small enough for now)
+# histo_trafic.csv
+# *.xlsx
+# *.pptx
+
+# Diagnostic scripts
+debug_shape.py
+diag_sector.py
+test_chronos2.py
+
+# Results (optional, keep if you want to show them)
+# prediction_results.csv
+
+# IDEs
+.vscode/
+.idea/
